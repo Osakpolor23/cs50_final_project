@@ -1,0 +1,4 @@
+my_creds.env
+project_venv
+requirements.txt
+__pycache__
