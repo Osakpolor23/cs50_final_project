@@ -1,5 +1,7 @@
 # World Countries ETL Pipeline
 #### Video Demo:  [Video Demo Link](<URL HERE>)
+#### Date of Recording: August 9, 2025.
+
 #### Description:
 This project builds a complete **ETL (Extract, Transform, Load)** pipeline using Python and PostgreSQL to ingest structured data from the [REST Countries API](https://restcountries.com). The pipeline parses, transforms, and stores each country’s metadata thereby enabling meaningful analysis using custom SQL queries. Below is the ETL architecture workflow:
 
