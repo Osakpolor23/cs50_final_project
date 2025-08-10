@@ -1,5 +1,5 @@
 # World Countries ETL Pipeline
-#### Video Demo:  [Video Demo Link](<URL HERE>)
+#### Video Demo:  [Video Demo Link](<https://youtu.be/X2B00p8TXl8>)
 #### Date of Recording: August 9, 2025.
 
 #### Description:
